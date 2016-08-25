@@ -1,0 +1,46 @@
+{
+	"blogs": [{
+		"id": 0,
+		"name": "Test"
+	}],
+	"HealthRead": [{
+		"categories": [{
+			"id": 1,
+			"name": "Sucess Stories"
+		}, {
+			"id": 2,
+			"name": "Featured"
+		}, {
+			"id": 3,
+			"name": "Get Inspired"
+		}, {
+			"id": 4,
+			"name": "Recipe"
+		}, {
+			"id": 5,
+			"name": "Yoga"
+		}, {
+			"id": 6,
+			"name": "Diet"
+		}, {
+			"id": 7,
+			"name": "Life"
+		}, {
+			"id": 8,
+			"name": "Workout"
+		}]
+	}],
+	"SubCategories": [{
+		"categoryId": 1,
+		"CategoryName": "Sucess Stories",
+		"desc": "Hello I am Desc"
+	}, {
+		"categoryId": 2,
+		"CategoryName": "Sucess Stories",
+		"desc": "Hello I am Desc"
+	}, {
+		"categoryId": 3,
+		"CategoryName": "Sucess Stories",
+		"desc": "Hello I am Desc"
+	}]
+}
